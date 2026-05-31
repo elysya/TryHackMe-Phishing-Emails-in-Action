@@ -11,6 +11,7 @@ Explanation: Looking at the email receipt layout shown in the image above, the t
 
 ## Task 3: Track Your Package
 
+![Icon](images/6.png)
 ![Icon](images/2.png)
 
 ### Q1: What root domain does the hyperlink in the above example point to? Be sure to defang the URL.
@@ -23,7 +24,7 @@ Explanation: As shown in the CyberChef interface in the image above, the target 
 ### Q1: The attacker deployed a fake portal to capture and exfiltrate user credentials. What is this type of attack called?
 
 Answer: Credential Harvesting <br>
-Explanation: 
+Explanation: The answer is explicitly stated in the introductory text under the Phishing Techniques Used section, which defines "Credential harvesting" as deploying a fake login portal to capture and exfiltrate usernames and passwords.
 
 ## Task 5: Your Account is on Hold
 
