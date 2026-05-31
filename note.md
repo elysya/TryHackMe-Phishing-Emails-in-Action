@@ -45,12 +45,12 @@ Explanation: This is a standard technical definition for email routing fields. I
 
 ### Q2: What is the file extension of the attachment?
 
-![Icon](images/5.png)
-
 Answer: .dot <br>
 Explanation: Scanning the left-hand column inside the image above, the Attachment icon box labels the malicious file as Double Jack....dot, showcasing a Microsoft Word Template extension.
 
 ## Task 7: Scheduled Shipment
+
+![Icon](images/5.png)
 
 ### Q1: What is the name of the executable that the Excel attachment attempts to run?
 
